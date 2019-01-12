@@ -1,0 +1,1 @@
+"C:\Users\IESHAAN .LAPTOP-U40CT3MF\AppData\Local\Programs\Python\Python36-32\python-programs\pw.py" %*
