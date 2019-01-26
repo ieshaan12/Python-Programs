@@ -1,0 +1,108 @@
+Name:
+
+Date:
+
+Period:
+
+                    State Capitals Quiz (Form 19)
+
+1,What is the capital ofNew York ?
+1 Cheyenne 2 Albany 3 Columbus 4 Springfield 
+2,What is the capital ofNew Jersey ?
+1 Salem 2 Trenton 3 Oklahoma City 4 Pierre 
+3,What is the capital ofGeorgia ?
+1 Atlanta 2 Hartford 3 Santa Fe 4 Juneau 
+4,What is the capital ofVirginia ?
+1 Richmond 2 Montpelier 3 Madison 4 Little Rock 
+5,What is the capital ofMissouri ?
+1 Annapolis 2 Concord 3 Jefferson City 4 Boise 
+6,What is the capital ofSouth Dakota ?
+1 Pierre 2 Albany 3 Charleston 4 Sacramento 
+7,What is the capital ofColorado ?
+1 Harrisburg 2 Santa Fe 3 Denver 4 Montgomery 
+8,What is the capital ofMississippi ?
+1 Boise 2 Jackson 3 Oklahoma City 4 Phoenix 
+9,What is the capital ofMaine ?
+1 Boise 2 Dover 3 Richmond 4 Augusta 
+10,What is the capital ofIdaho ?
+1 Atlanta 2 Dover 3 Annapolis 4 Boise 
+11,What is the capital ofWashington ?
+1 Denver 2 Charleston 3 Olympia 4 Boise 
+12,What is the capital ofNew Mexico ?
+1 Salem 2 Nashville 3 Santa Fe 4 Springfield 
+13,What is the capital ofOklahoma ?
+1 Montgomery 2 Oklahoma City 3 Boise 4 Little Rock 
+14,What is the capital ofMichigan ?
+1 Saint Paul 2 Lansing 3 Baton Rouge 4 Olympia 
+15,What is the capital ofNorth Dakota ?
+1 Salem 2 Boise 3 Bismarck 4 Frankfort 
+16,What is the capital ofKentucky ?
+1 Frankfort 2 Columbus 3 Des Moines 4 Little Rock 
+17,What is the capital ofArizona ?
+1 Phoenix 2 Santa Fe 3 Jackson 4 Topeka 
+18,What is the capital ofSouth Carolina ?
+1 Madison 2 Concord 3 Oklahoma City 4 Columbia 
+19,What is the capital ofLouisiana ?
+1 Springfield 2 Annapolis 3 Little Rock 4 Baton Rouge 
+20,What is the capital ofAlabama ?
+1 Hartford 2 Montgomery 3 Phoenix 4 Tallahassee 
+21,What is the capital ofFlorida ?
+1 Juneau 2 Annapolis 3 Tallahassee 4 Montgomery 
+22,What is the capital ofCalifornia ?
+1 Juneau 2 Montpelier 3 Hartford 4 Sacramento 
+23,What is the capital ofAlaska ?
+1 Phoenix 2 Des Moines 3 Juneau 4 Boston 
+24,What is the capital ofHawaii ?
+1 Topeka 2 Des Moines 3 Lincoln 4 Honolulu 
+25,What is the capital ofOregon ?
+1 Hartford 2 Indianapolis 3 Nashville 4 Salem 
+26,What is the capital ofNebraska ?
+1 Indianapolis 2 Helena 3 Harrisburg 4 Lincoln 
+27,What is the capital ofMaryland ?
+1 Phoenix 2 Santa Fe 3 Annapolis 4 Columbia 
+28,What is the capital ofWisconsin ?
+1 Madison 2 Olympia 3 Carson City 4 Austin 
+29,What is the capital ofIllinois ?
+1 Springfield 2 Atlanta 3 Charleston 4 Jackson 
+30,What is the capital ofUtah ?
+1 Columbia 2 Salt Lake City 3 Boise 4 Boston 
+31,What is the capital ofConnecticut ?
+1 Montgomery 2 Little Rock 3 Hartford 4 Honolulu 
+32,What is the capital ofOhio ?
+1 Salt Lake City 2 Jefferson City 3 Columbus 4 Montgomery 
+33,What is the capital ofNevada ?
+1 Phoenix 2 Montpelier 3 Carson City 4 Albany 
+34,What is the capital ofIowa ?
+1 Raleigh 2 Columbia 3 Des Moines 4 Cheyenne 
+35,What is the capital ofWyoming ?
+1 Hartford 2 Cheyenne 3 Juneau 4 Pierre 
+36,What is the capital ofWest Virginia ?
+1 Richmond 2 Charleston 3 Des Moines 4 Austin 
+37,What is the capital ofTexas ?
+1 Austin 2 Montpelier 3 Hartford 4 Honolulu 
+38,What is the capital ofMassachusetts ?
+1 Jefferson City 2 Carson City 3 Annapolis 4 Boston 
+39,What is the capital ofIndiana ?
+1 Atlanta 2 Concord 3 Columbia 4 Indianapolis 
+40,What is the capital ofDelaware ?
+1 Jackson 2 Tallahassee 3 Dover 4 Honolulu 
+41,What is the capital ofVermont ?
+1 Pierre 2 Santa Fe 3 Richmond 4 Montpelier 
+42,What is the capital ofKansas ?
+1 Helena 2 Carson City 3 Annapolis 4 Topeka 
+43,What is the capital ofTennessee ?
+1 Columbia 2 Annapolis 3 Nashville 4 Baton Rouge 
+44,What is the capital ofMontana ?
+1 Annapolis 2 Helena 3 Boston 4 Oklahoma City 
+45,What is the capital ofNew Hampshire ?
+1 Honolulu 2 Juneau 3 Boston 4 Concord 
+46,What is the capital ofRhode Island ?
+1 Providence 2 Lincoln 3 Jefferson City 4 Bismarck 
+47,What is the capital ofArkansas ?
+1 Little Rock 2 Montpelier 3 Cheyenne 4 Concord 
+48,What is the capital ofMinnesota ?
+1 Dover 2 Saint Paul 3 Jefferson City 4 Annapolis 
+49,What is the capital ofPennsylvania ?
+1 Santa Fe 2 Harrisburg 3 Pierre 4 Topeka 
+50,What is the capital ofNorth Carolina ?
+1 Austin 2 Olympia 3 Salem 4 Raleigh 

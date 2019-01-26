@@ -1,0 +1,108 @@
+Name:
+
+Date:
+
+Period:
+
+                    State Capitals Quiz (Form 11)
+
+1,What is the capital ofNorth Carolina ?
+1 Annapolis 2 Jefferson City 3 Saint Paul 4 Raleigh 
+2,What is the capital ofMississippi ?
+1 Juneau 2 Richmond 3 Jackson 4 Dover 
+3,What is the capital ofAlabama ?
+1 Lansing 2 Montgomery 3 Columbus 4 Frankfort 
+4,What is the capital ofHawaii ?
+1 Des Moines 2 Albany 3 Honolulu 4 Pierre 
+5,What is the capital ofIdaho ?
+1 Lansing 2 Boise 3 Baton Rouge 4 Des Moines 
+6,What is the capital ofKentucky ?
+1 Des Moines 2 Frankfort 3 Little Rock 4 Albany 
+7,What is the capital ofWisconsin ?
+1 Trenton 2 Madison 3 Richmond 4 Phoenix 
+8,What is the capital ofGeorgia ?
+1 Honolulu 2 Lansing 3 Denver 4 Atlanta 
+9,What is the capital ofIllinois ?
+1 Salt Lake City 2 Springfield 3 Jackson 4 Montgomery 
+10,What is the capital ofNebraska ?
+1 Columbus 2 Little Rock 3 Montgomery 4 Lincoln 
+11,What is the capital ofWyoming ?
+1 Raleigh 2 Phoenix 3 Baton Rouge 4 Cheyenne 
+12,What is the capital ofUtah ?
+1 Columbus 2 Salt Lake City 3 Lincoln 4 Jefferson City 
+13,What is the capital ofArizona ?
+1 Phoenix 2 Annapolis 3 Richmond 4 Baton Rouge 
+14,What is the capital ofTexas ?
+1 Annapolis 2 Richmond 3 Austin 4 Phoenix 
+15,What is the capital ofMaryland ?
+1 Concord 2 Phoenix 3 Harrisburg 4 Annapolis 
+16,What is the capital ofWest Virginia ?
+1 Charleston 2 Boston 3 Salem 4 Little Rock 
+17,What is the capital ofCalifornia ?
+1 Sacramento 2 Lansing 3 Bismarck 4 Frankfort 
+18,What is the capital ofNew Hampshire ?
+1 Concord 2 Hartford 3 Denver 4 Madison 
+19,What is the capital ofNorth Dakota ?
+1 Bismarck 2 Lansing 3 Dover 4 Tallahassee 
+20,What is the capital ofMichigan ?
+1 Lansing 2 Topeka 3 Concord 4 Jefferson City 
+21,What is the capital ofSouth Dakota ?
+1 Pierre 2 Bismarck 3 Honolulu 4 Sacramento 
+22,What is the capital ofNew Jersey ?
+1 Lincoln 2 Raleigh 3 Atlanta 4 Trenton 
+23,What is the capital ofRhode Island ?
+1 Carson City 2 Trenton 3 Providence 4 Harrisburg 
+24,What is the capital ofIndiana ?
+1 Honolulu 2 Indianapolis 3 Olympia 4 Raleigh 
+25,What is the capital ofKansas ?
+1 Boston 2 Topeka 3 Atlanta 4 Helena 
+26,What is the capital ofOregon ?
+1 Oklahoma City 2 Sacramento 3 Cheyenne 4 Salem 
+27,What is the capital ofWashington ?
+1 Columbus 2 Columbia 3 Dover 4 Olympia 
+28,What is the capital ofVermont ?
+1 Jackson 2 Montpelier 3 Raleigh 4 Santa Fe 
+29,What is the capital ofDelaware ?
+1 Des Moines 2 Augusta 3 Austin 4 Dover 
+30,What is the capital ofTennessee ?
+1 Carson City 2 Hartford 3 Albany 4 Nashville 
+31,What is the capital ofNew York ?
+1 Carson City 2 Richmond 3 Albany 4 Boise 
+32,What is the capital ofOklahoma ?
+1 Atlanta 2 Oklahoma City 3 Honolulu 4 Juneau 
+33,What is the capital ofPennsylvania ?
+1 Cheyenne 2 Harrisburg 3 Raleigh 4 Bismarck 
+34,What is the capital ofMaine ?
+1 Des Moines 2 Annapolis 3 Salem 4 Augusta 
+35,What is the capital ofNevada ?
+1 Bismarck 2 Albany 3 Carson City 4 Harrisburg 
+36,What is the capital ofConnecticut ?
+1 Phoenix 2 Hartford 3 Albany 4 Providence 
+37,What is the capital ofSouth Carolina ?
+1 Columbus 2 Annapolis 3 Oklahoma City 4 Columbia 
+38,What is the capital ofMassachusetts ?
+1 Nashville 2 Boston 3 Concord 4 Pierre 
+39,What is the capital ofNew Mexico ?
+1 Cheyenne 2 Charleston 3 Topeka 4 Santa Fe 
+40,What is the capital ofVirginia ?
+1 Saint Paul 2 Richmond 3 Augusta 4 Tallahassee 
+41,What is the capital ofArkansas ?
+1 Little Rock 2 Bismarck 3 Austin 4 Baton Rouge 
+42,What is the capital ofAlaska ?
+1 Harrisburg 2 Indianapolis 3 Des Moines 4 Juneau 
+43,What is the capital ofColorado ?
+1 Denver 2 Tallahassee 3 Atlanta 4 Cheyenne 
+44,What is the capital ofFlorida ?
+1 Salem 2 Boise 3 Phoenix 4 Tallahassee 
+45,What is the capital ofMissouri ?
+1 Cheyenne 2 Jefferson City 3 Salt Lake City 4 Montpelier 
+46,What is the capital ofMontana ?
+1 Helena 2 Harrisburg 3 Hartford 4 Richmond 
+47,What is the capital ofMinnesota ?
+1 Bismarck 2 Saint Paul 3 Salem 4 Harrisburg 
+48,What is the capital ofLouisiana ?
+1 Montgomery 2 Baton Rouge 3 Raleigh 4 Providence 
+49,What is the capital ofIowa ?
+1 Madison 2 Helena 3 Jackson 4 Des Moines 
+50,What is the capital ofOhio ?
+1 Columbus 2 Cheyenne 3 Honolulu 4 Phoenix 
