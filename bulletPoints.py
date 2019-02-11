@@ -7,6 +7,6 @@ if __name__=="__main__":
 
     lines=text.split('\n')
     for i in range(len(lines)):
-        lines[i]='    '+lines[i]
+        lines[i]='printf("'+lines[i]+'");'
     text='\n'.join(lines)
     pyperclip.copy(text)
